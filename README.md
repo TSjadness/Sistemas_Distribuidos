@@ -1,1 +1,2 @@
 # Sistemas_Distribuidos
+Este repositório contém as atividades desenvolvidas para a disciplina de Sistemas Distribuídos. O objetivo principal é explorar conceitos e práticas relacionadas à programação distribuída por meio de exemplos, códigos e projetos.
